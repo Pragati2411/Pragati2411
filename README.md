@@ -42,4 +42,3 @@ I'm a data analyst with a strong foundation in mathematics, statistics, and appl
 I'm actively looking for **Junior Data Analyst, Business Analyst, SQL/Reporting Analyst, Research Analyst, or Data Quality Analyst** roles. Feel free to reach out — I'd love to connect!
 
 🔗 [LinkedIn](https://www.linkedin.com/in/pragati-mistry-b70934211)
-📧 pragatimistry0@gmail.com
